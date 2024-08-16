@@ -6,7 +6,7 @@
 
 **Deploy**: O deploy da aplicação foi realizado utilizando a ferramenta Vercel CLI, permitindo um processo contínuo de integração e entrega (CI/CD).
 
-**GitHub**: O código-fonte do projeto está disponível no GitHub. [Repositório do projeto](https://github.com/usuario/beautyshop).
+**GitHub**: O código-fonte do projeto está disponível no GitHub. [Repositório do projeto](https://github.com/GabriielMelo/projeto-beauty-shop).
 
 ## Funcionalidades
 
